@@ -191,11 +191,11 @@
 # ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
-2. 🎉 Merged PR [#2](https://github.com/msrajawat298/msrajawat298/pull/2) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
-3. 💪 Opened PR [#2](https://github.com/info-divyanshuparihar/starforloops/pull/2) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
-4. ❗️ Closed issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
-5. ❗️ Opened issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
+1. 💪 Opened PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
+2. 💪 Opened PR [#2](https://github.com/msrajawat298/msrajawat298/pull/2) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
+3. 🎉 Merged PR [#3](https://github.com/garimarajput748/calibrateddiamonds.in/pull/3) in [garimarajput748/calibrateddiamonds.in](https://github.com/garimarajput748/calibrateddiamonds.in)
+4. 💪 Opened PR [#3](https://github.com/garimarajput748/calibrateddiamonds.in/pull/3) in [garimarajput748/calibrateddiamonds.in](https://github.com/garimarajput748/calibrateddiamonds.in)
+5. ❗️ Closed issue [#1](https://github.com/garimarajput748/calibrateddiamonds.in/issues/1) in [garimarajput748/calibrateddiamonds.in](https://github.com/garimarajput748/calibrateddiamonds.in)
 <!--END_SECTION:activity-->
 <br/>
 
