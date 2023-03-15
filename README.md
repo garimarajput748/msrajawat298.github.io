@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Mastering ReactJS Debugging: The Power of console.trace&lpar;&rpar;](https://blog.vitabletech.in/mastering-reactjs-debugging-the-power-of-console-trace/)
-- [How Ownership and Learning Drive Success: My Experience Winning the Spotted Eagle Award at Eagleview](https://blog.vitabletech.in/how-ownership-and-learning-drive-success-my-experience-winning-the-spotted-eagle-award-at-eagleview/)
-- [From Insecure to Confident: How Voice Change AI Can Help You Succeed in Business and Life!”](https://blog.vitabletech.in/from-insecure-to-confident-how-voice-change-ai-can-help-you-succeed-in-business-and-life/)
-- [Unleash Your Inner Creativity with Voice.AI’s Revolutionary Voice Changer!](https://blog.vitabletech.in/unleash-your-inner-creativity-with-voice-ais-revolutionary-voice-changer/)
-- [10 Life-Saving Shell Scripts to Automate Your Daily Tasks and Boost Productivity](https://blog.vitabletech.in/10-life-saving-shell-scripts-to-automate-your-daily-tasks-and-boost-productivity/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WDu9spnLTmA"><img width="140px" src="https://i.ytimg.com/vi/WDu9spnLTmA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WDu9spnLTmA">Colorful Celebrations: Enjoying Holi with Friends and Family | Happy holi | 8 march 2022</a><br/>Mar 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4KuOL4QAD3g"><img width="140px" src="https://i.ytimg.com/vi/4KuOL4QAD3g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4KuOL4QAD3g">#msrajawat298 #portfolio #ahmedabhad #gooutsidetheworld #trip #life</a><br/>Feb 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OStGcmfRMcI"><img width="140px" src="https://i.ytimg.com/vi/OStGcmfRMcI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OStGcmfRMcI">12 February 2023</a><br/>Feb 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=C9g8MfXE1K0"><img width="140px" src="https://i.ytimg.com/vi/C9g8MfXE1K0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C9g8MfXE1K0">#msrajawat298 #portfolio</a><br/>Feb 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LEinRnXVD3M"><img width="140px" src="https://i.ytimg.com/vi/LEinRnXVD3M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LEinRnXVD3M">Discovering the Spiritual Beauty of Indore &amp; Ujjain: A Journey Through India</a><br/>Feb 10, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
