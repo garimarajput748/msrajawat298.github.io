@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ThrQ5yYhq4o"><img width="140px" src="https://i.ytimg.com/vi/ThrQ5yYhq4o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ThrQ5yYhq4o">22 March 2023</a><br/>Mar 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WDu9spnLTmA"><img width="140px" src="https://i.ytimg.com/vi/WDu9spnLTmA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WDu9spnLTmA">Colorful Celebrations: Enjoying Holi with Friends and Family | Happy holi | 8 march 2022</a><br/>Mar 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4KuOL4QAD3g"><img width="140px" src="https://i.ytimg.com/vi/4KuOL4QAD3g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4KuOL4QAD3g">#msrajawat298 #portfolio #ahmedabhad #gooutsidetheworld #trip #life</a><br/>Feb 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OStGcmfRMcI"><img width="140px" src="https://i.ytimg.com/vi/OStGcmfRMcI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OStGcmfRMcI">12 February 2023</a><br/>Feb 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=C9g8MfXE1K0"><img width="140px" src="https://i.ytimg.com/vi/C9g8MfXE1K0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C9g8MfXE1K0">#msrajawat298 #portfolio</a><br/>Feb 10, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [How to Use wget to Clone a Website with All Connected Pages and Create a Log File](https://blog.vitabletech.in/how-to-use-wget-to-clone-a-website-with-all-connected-pages-and-create-a-log-file/)
+- [How I Streamlined My JavaScript Development Process and You Can Too](https://blog.vitabletech.in/how-i-streamlined-my-javascript-development-process-and-you-can-too/)
+- [My Journey Developing a JavaScript Toolkit and Implementing a Process of Complete Development](https://blog.vitabletech.in/my-journey-developing-a-javascript-toolkit-and-implementing-a-process-of-complete-development/)
+- [The Easy Way to Redirect Your old Domain Name to New Domain without Lose Traffic: A Step-by-Step Guide with PHP](https://blog.vitabletech.in/the-easy-way-to-redirect-your-old-domain-name-to-new-domain-without-lose-traffic-a-step-by-step-guide-with-php/)
+- [Streamline Your Project Documentation with GitHub Actions and JSDoc: A Step-by-Step Guide](https://blog.vitabletech.in/streamline-your-project-documentation-with-github-actions-and-jsdoc-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
