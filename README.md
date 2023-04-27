@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gEW9eqBYod8"><img width="140px" src="https://i.ytimg.com/vi/gEW9eqBYod8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gEW9eqBYod8">Want to level up your coding game? | This powerful Visual Studio Code extension is a game-changer...</a><br/>Apr 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SjAkQXMdZqo"><img width="140px" src="https://i.ytimg.com/vi/SjAkQXMdZqo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SjAkQXMdZqo">Publishing My First VS Code Extension: SnippetMaster Demo and Tutorial</a><br/>Apr 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=W0Qns5IkIgI"><img width="140px" src="https://i.ytimg.com/vi/W0Qns5IkIgI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W0Qns5IkIgI">Q&amp;A: My Experience Publishing SnippetMaster, My First VS Code Extension</a><br/>Apr 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eG5Na0KTGH0"><img width="140px" src="https://i.ytimg.com/vi/eG5Na0KTGH0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eG5Na0KTGH0">Introducing SnippetMaster: My First Published Visual Studio Code Extension</a><br/>Apr 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dmswhFGfyO8"><img width="140px" src="https://i.ytimg.com/vi/dmswhFGfyO8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dmswhFGfyO8">20 April 2023</a><br/>Apr 20, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [How to Use wget to Clone a Website with All Connected Pages and Create a Log File](https://blog.vitabletech.in/how-to-use-wget-to-clone-a-website-with-all-connected-pages-and-create-a-log-file/)
+- [How I Streamlined My JavaScript Development Process and You Can Too](https://blog.vitabletech.in/how-i-streamlined-my-javascript-development-process-and-you-can-too/)
+- [My Journey Developing a JavaScript Toolkit and Implementing a Process of Complete Development](https://blog.vitabletech.in/my-journey-developing-a-javascript-toolkit-and-implementing-a-process-of-complete-development/)
+- [The Easy Way to Redirect Your old Domain Name to New Domain without Lose Traffic: A Step-by-Step Guide with PHP](https://blog.vitabletech.in/the-easy-way-to-redirect-your-old-domain-name-to-new-domain-without-lose-traffic-a-step-by-step-guide-with-php/)
+- [Streamline Your Project Documentation with GitHub Actions and JSDoc: A Step-by-Step Guide](https://blog.vitabletech.in/streamline-your-project-documentation-with-github-actions-and-jsdoc-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
