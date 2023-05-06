@@ -191,11 +191,11 @@
 # ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
-2. 💪 Opened PR [#2](https://github.com/msrajawat298/msrajawat298/pull/2) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
-3. 🎉 Merged PR [#3](https://github.com/garimarajput748/calibrateddiamonds.in/pull/3) in [garimarajput748/calibrateddiamonds.in](https://github.com/garimarajput748/calibrateddiamonds.in)
-4. 💪 Opened PR [#3](https://github.com/garimarajput748/calibrateddiamonds.in/pull/3) in [garimarajput748/calibrateddiamonds.in](https://github.com/garimarajput748/calibrateddiamonds.in)
-5. ❗️ Closed issue [#1](https://github.com/garimarajput748/calibrateddiamonds.in/issues/1) in [garimarajput748/calibrateddiamonds.in](https://github.com/garimarajput748/calibrateddiamonds.in)
+1. 🗣 Commented on [#15](https://github.com/vitabletec/SnippetMaster/issues/15) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+2. 🗣 Commented on [#14](https://github.com/vitabletec/SnippetMaster/issues/14) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+3. 🗣 Commented on [#10](https://github.com/vitabletec/SnippetMaster/issues/10) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+4. 💪 Opened PR [#16](https://github.com/vitabletec/SnippetMaster/pull/16) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+5. 💪 Opened PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
 <!--END_SECTION:activity-->
 <br/>
 
