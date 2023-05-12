@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Boost Your Development Workflow: The Easy Way to Create a Release Branch and Tag in GitHub](https://blog.vitabletech.in/boost-your-development-workflow-the-easy-way-to-create-a-release-branch-and-tag-in-github/)
-- [Release Management Made Easy: Creating a Release Branch and Tag in Git &lpar;Using terminal or local machine&rpar;](https://blog.vitabletech.in/release-management-made-easy-creating-a-release-branch-and-tag-in-git/)
-- [All in one Snippet Master – A Visual Studio Extension for Software Developers](https://blog.vitabletech.in/all-in-one-snippet-master-a-visual-studio-extension-for-software-developers/)
-- [How to Publish Your GitHub Action on the GitHub Marketplace: A Step-by-Step Guide](https://blog.vitabletech.in/how-to-publish-your-github-action-on-the-github-marketplace-a-step-by-step-guide/)
-- [How to Use wGet to Clone a Website with All Connected Pages and Create a Log File](https://blog.vitabletech.in/how-to-use-wget-to-clone-a-website-with-all-connected-pages-and-create-a-log-file/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W0Qns5IkIgI"><img width="140px" src="https://i.ytimg.com/vi/W0Qns5IkIgI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=W0Qns5IkIgI">Q&amp;A: My Experience Publishing SnippetMaster, My First VS Code Extension</a><br/>Apr 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SjAkQXMdZqo"><img width="140px" src="https://i.ytimg.com/vi/SjAkQXMdZqo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SjAkQXMdZqo">Publishing My First VS Code Extension: SnippetMaster Demo and Tutorial</a><br/>Apr 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eG5Na0KTGH0"><img width="140px" src="https://i.ytimg.com/vi/eG5Na0KTGH0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eG5Na0KTGH0">Introducing SnippetMaster: My First Published Visual Studio Code Extension</a><br/>Apr 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gEW9eqBYod8"><img width="140px" src="https://i.ytimg.com/vi/gEW9eqBYod8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gEW9eqBYod8">Want to level up your coding game? | This powerful Visual Studio Code extension is a game-changer...</a><br/>Apr 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dmswhFGfyO8"><img width="140px" src="https://i.ytimg.com/vi/dmswhFGfyO8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dmswhFGfyO8">20 April 2023</a><br/>Apr 20, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
