@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mmNnIUEMfQo"><img width="140px" src="https://i.ytimg.com/vi/mmNnIUEMfQo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mmNnIUEMfQo">Pixelating Logo Reveal</a><br/>May 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uWoJEhPkPB4"><img width="140px" src="https://i.ytimg.com/vi/uWoJEhPkPB4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uWoJEhPkPB4">Quick Logo Animation</a><br/>May 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DGBxFRcnWUM"><img width="140px" src="https://i.ytimg.com/vi/DGBxFRcnWUM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DGBxFRcnWUM">Magnetic Balls Logo Animation</a><br/>May 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bl2X-_lxBoI"><img width="140px" src="https://i.ytimg.com/vi/bl2X-_lxBoI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bl2X-_lxBoI">Cracking the Code: Daily Expense Report Project in PHP | Manage Your Finances like a Pro!</a><br/>May 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kpeYDOz6N5w"><img width="140px" src="https://i.ytimg.com/vi/kpeYDOz6N5w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kpeYDOz6N5w">My Unforgettable Campus Placement Journey at RadixWeb</a><br/>May 26, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [Chrome Dev Tools Hacks: Override JavaScript Files and Take Control of Websites](https://blog.vitabletech.in/chrome-dev-tools-hacks-override-javascript-files-and-take-control-of-websites/)
+- [Unlocking Success: The Power of Upgrading Your Project’s Version and How to Do It Right](https://blog.vitabletech.in/unlocking-success-the-power-of-upgrading-your-projects-version-and-how-to-do-it-right/)
+- [VS Code Hack: How to Change the Default Terminal from PowerShell to Bash](https://blog.vitabletech.in/vs-code-hack-how-to-change-the-default-terminal-from-powershell-to-bash/)
+- [Boost Your Development Workflow: The Easy Way to Create a Release Branch and Tag in GitHub](https://blog.vitabletech.in/boost-your-development-workflow-the-easy-way-to-create-a-release-branch-and-tag-in-github/)
+- [Release Management Made Easy: Creating a Release Branch and Tag in Git &lpar;Using terminal or local machine&rpar;](https://blog.vitabletech.in/release-management-made-easy-creating-a-release-branch-and-tag-in-git/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
