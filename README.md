@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Chrome Dev Tools Hacks: Override JavaScript Files and Take Control of Websites](https://blog.vitabletech.in/chrome-dev-tools-hacks-override-javascript-files-and-take-control-of-websites/)
-- [Unlocking Success: The Power of Upgrading Your Project’s Version and How to Do It Right](https://blog.vitabletech.in/unlocking-success-the-power-of-upgrading-your-projects-version-and-how-to-do-it-right/)
-- [VS Code Hack: How to Change the Default Terminal from PowerShell to Bash](https://blog.vitabletech.in/vs-code-hack-how-to-change-the-default-terminal-from-powershell-to-bash/)
-- [Boost Your Development Workflow: The Easy Way to Create a Release Branch and Tag in GitHub](https://blog.vitabletech.in/boost-your-development-workflow-the-easy-way-to-create-a-release-branch-and-tag-in-github/)
-- [Release Management Made Easy: Creating a Release Branch and Tag in Git &lpar;Using terminal or local machine&rpar;](https://blog.vitabletech.in/release-management-made-easy-creating-a-release-branch-and-tag-in-git/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y"><img width="140px" src="https://i.ytimg.com/vi/k2jzIYUEt_Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y">A Step-by-Step Guide | Contribute to SnippetMaster on GitHub Releasing and Merging Changes</a><br/>May 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=po_mYhXvDBk"><img width="140px" src="https://i.ytimg.com/vi/po_mYhXvDBk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=po_mYhXvDBk">Git Workflow Tutorial: Releasing and Merging Changes</a><br/>May 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XTxH-_eW70g"><img width="140px" src="https://i.ytimg.com/vi/XTxH-_eW70g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XTxH-_eW70g">The Year in Review 2019: A Rollercoaster of Moments That Shook the World</a><br/>May 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yQrJkRLQxJM"><img width="140px" src="https://i.ytimg.com/vi/yQrJkRLQxJM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yQrJkRLQxJM">#msrajawat298</a><br/>May 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mmNnIUEMfQo"><img width="140px" src="https://i.ytimg.com/vi/mmNnIUEMfQo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mmNnIUEMfQo">Pixelating Logo Reveal</a><br/>May 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
