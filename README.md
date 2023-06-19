@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY"><img width="140px" src="https://i.ytimg.com/vi/tUUzwfUN_kY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY">My salesforce learning -clip2</a><br/>Jun 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s"><img width="140px" src="https://i.ytimg.com/vi/fKKW4iMfU2s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s">My salesforce learning - clip1</a><br/>Jun 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wQt7JKpGAHo"><img width="140px" src="https://i.ytimg.com/vi/wQt7JKpGAHo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wQt7JKpGAHo">Quick Domain Transfer: How to Transfer a Domain to Another Account in One Minute</a><br/>Jun 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y"><img width="140px" src="https://i.ytimg.com/vi/k2jzIYUEt_Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y">A Step-by-Step Guide | Contribute to SnippetMaster on GitHub Releasing and Merging Changes</a><br/>Jun 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2OruukcMFPo"><img width="140px" src="https://i.ytimg.com/vi/2OruukcMFPo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2OruukcMFPo">Easily Login Custom Domain Email in Gmail #CustomDomainEmail #ShortTutorial #EmailSolutions</a><br/>Jun 4, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [Debunking the Myth: Is PI Planning Really a Waste of Time](https://blog.vitabletech.in/debunking-the-myth-is-pi-planning-really-a-waste-of-time/)
+- [How to Check the Version of ArcGIS Server](https://blog.vitabletech.in/how-to-check-the-version-of-arcgis-server/)
+- [Running a PHP Project with a Custom Domain on Localhost using XAMPP](https://blog.vitabletech.in/running-a-php-project-with-a-custom-domain-on-localhost-using-xampp/)
+- [Chrome Dev Tools Hacks: Override JavaScript Files and Take Control of Websites](https://blog.vitabletech.in/chrome-dev-tools-hacks-override-javascript-files-and-take-control-of-websites/)
+- [Unlocking Success: The Power of Upgrading Your Project’s Version and How to Do It Right](https://blog.vitabletech.in/unlocking-success-the-power-of-upgrading-your-projects-version-and-how-to-do-it-right/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
