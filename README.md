@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VA7dGeHzlEs"><img width="140px" src="https://i.ytimg.com/vi/VA7dGeHzlEs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VA7dGeHzlEs">Epic Journey from New Delhi to Gwalior and Back! Unforgettable Moments on the Vandhe Bharat Train</a><br/>Jun 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY"><img width="140px" src="https://i.ytimg.com/vi/tUUzwfUN_kY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY">My salesforce learning -clip2</a><br/>Jun 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s"><img width="140px" src="https://i.ytimg.com/vi/fKKW4iMfU2s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s">My salesforce learning - clip1</a><br/>Jun 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wQt7JKpGAHo"><img width="140px" src="https://i.ytimg.com/vi/wQt7JKpGAHo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wQt7JKpGAHo">Quick Domain Transfer: How to Transfer a Domain to Another Account in One Minute</a><br/>Jun 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y"><img width="140px" src="https://i.ytimg.com/vi/k2jzIYUEt_Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y">A Step-by-Step Guide | Contribute to SnippetMaster on GitHub Releasing and Merging Changes</a><br/>Jun 4, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [Resolving the Redirection Issue for Seamless Access to Public Domain – A Solution Guide](https://blog.vitabletech.in/resolving-the-redirection-issue-for-seamless-access-to-public-domain-a-solution-guide/)
+- [Automating Secure SFTP User Setup with a Bash Script](https://blog.vitabletech.in/automating-secure-sftp-user-setup-with-a-bash-script/)
+- [Why and How to Publish a Custom Plugin to the WordPress Repository: 7 Key Steps for Success](https://blog.vitabletech.in/why-and-how-to-publish-a-custom-plugin-to-the-wordpress-repository-7-key-steps-for-success/)
+- [How to Add a GIF as Preloader on WordPress Without a Plugin: 5 Simple Steps](https://blog.vitabletech.in/how-to-add-a-gif-as-preloader-on-wordpress-without-a-plugin-5-simple-steps/)
+- [14 Functions to Supercharge For WordPress Developers with the Latest VS Code Extension!](https://blog.vitabletech.in/14-functions-to-supercharge-for-wordpress-developers-with-the-latest-vs-code-extension/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
