@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How to create users in wordpress ? | A Step-by-Step Tutorial](https://blog.vitabletech.in/how-to-create-users-in-wordpress-a-step-by-step-tutorial/)
-- [From Web to Desktop: Exploring the Magic of NativePHP for PHP Developers](https://blog.vitabletech.in/from-web-to-desktop-exploring-the-magic-of-nativephp-for-php-developers/)
-- [Do you ever use package management into windows?](https://blog.vitabletech.in/do-you-ever-use-package-management-into-windows/)
-- [PrivateGPT: Safe and Secure AI Solution for 2023](https://blog.vitabletech.in/privategpt-safe-and-secure-ai-solution-for-2023/)
-- [Introducing CasaOS: A User-Friendly Web Hosting Solution for Your AWS EC2 Instances](https://blog.vitabletech.in/introducing-casaos-a-user-friendly-web-hosting-solution-for-your-aws-ec2-instances/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VA7dGeHzlEs"><img width="140px" src="https://i.ytimg.com/vi/VA7dGeHzlEs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VA7dGeHzlEs">Epic Journey from New Delhi to Gwalior and Back! Unforgettable Moments on the Vandhe Bharat Train</a><br/>Jun 29, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY"><img width="140px" src="https://i.ytimg.com/vi/tUUzwfUN_kY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY">My salesforce learning -clip2</a><br/>Jun 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s"><img width="140px" src="https://i.ytimg.com/vi/fKKW4iMfU2s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s">My salesforce learning - clip1</a><br/>Jun 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wQt7JKpGAHo"><img width="140px" src="https://i.ytimg.com/vi/wQt7JKpGAHo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wQt7JKpGAHo">Quick Domain Transfer: How to Transfer a Domain to Another Account in One Minute</a><br/>Jun 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y"><img width="140px" src="https://i.ytimg.com/vi/k2jzIYUEt_Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=k2jzIYUEt_Y">A Step-by-Step Guide | Contribute to SnippetMaster on GitHub Releasing and Merging Changes</a><br/>Jun 4, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
