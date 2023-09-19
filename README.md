@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Are you finding a software for your team or organization for free?](https://blog.vitabletech.in/magic-of-discord-why-its-a-game-changer/)
-- [How to create users in wordpress ? | A Step-by-Step Tutorial](https://blog.vitabletech.in/how-to-create-users-in-wordpress-a-step-by-step-tutorial/)
-- [From Web to Desktop: Exploring the Magic of NativePHP for PHP Developers](https://blog.vitabletech.in/from-web-to-desktop-exploring-the-magic-of-nativephp-for-php-developers/)
-- [Do you ever use package management into windows?](https://blog.vitabletech.in/do-you-ever-use-package-management-into-windows/)
-- [PrivateGPT: Safe and Secure AI Solution for 2023](https://blog.vitabletech.in/privategpt-safe-and-secure-ai-solution-for-2023/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oa7OkuXYLxU"><img width="140px" src="https://i.ytimg.com/vi/oa7OkuXYLxU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oa7OkuXYLxU">WordPress learning about menus</a><br/>Sep 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pcoqUh_C4Fg"><img width="140px" src="https://i.ytimg.com/vi/pcoqUh_C4Fg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pcoqUh_C4Fg">Your all-in-one Personal Blog App for creative expression and productivity.</a><br/>Aug 22, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VA7dGeHzlEs"><img width="140px" src="https://i.ytimg.com/vi/VA7dGeHzlEs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VA7dGeHzlEs">Epic Journey from New Delhi to Gwalior and Back! Unforgettable Moments on the Vandhe Bharat Train</a><br/>Jun 29, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY"><img width="140px" src="https://i.ytimg.com/vi/tUUzwfUN_kY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tUUzwfUN_kY">My salesforce learning -clip2</a><br/>Jun 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s"><img width="140px" src="https://i.ytimg.com/vi/fKKW4iMfU2s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fKKW4iMfU2s">My salesforce learning - clip1</a><br/>Jun 11, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
