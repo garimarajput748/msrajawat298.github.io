@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Your Own ChatGPT: A Cost-Effective Guide to Creating a Custom Chatbot](https://blog.vitabletech.in/chatbot-application-for-knowledge-assistance/)
-- [Are you finding a software for your team or organization for free?](https://blog.vitabletech.in/magic-of-discord-why-its-a-game-changer/)
-- [How to create users in wordpress ? | A Step-by-Step Tutorial](https://blog.vitabletech.in/how-to-create-users-in-wordpress-a-step-by-step-tutorial/)
-- [From Web to Desktop: Exploring the Magic of NativePHP for PHP Developers](https://blog.vitabletech.in/from-web-to-desktop-exploring-the-magic-of-nativephp-for-php-developers/)
-- [Do you ever use package management into windows?](https://blog.vitabletech.in/do-you-ever-use-package-management-into-windows/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs"><img width="140px" src="https://i.ytimg.com/vi/jkRxXlyavNs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY"><img width="140px" src="https://i.ytimg.com/vi/kNWjcygsFCY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dSnIO09Ac10"><img width="140px" src="https://i.ytimg.com/vi/dSnIO09Ac10/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dSnIO09Ac10">Introducing YouTube Studio&#39;s Entire Toolkit: A Detailed Overview of All the Features</a><br/>Oct 29, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Fek1ZoYXnGc"><img width="140px" src="https://i.ytimg.com/vi/Fek1ZoYXnGc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Fek1ZoYXnGc">Double the Fun! Day with Team Vspartant: VR Gaming, Light Food Photoshots, and More!</a><br/>Oct 24, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
