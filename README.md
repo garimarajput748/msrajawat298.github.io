@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs"><img width="140px" src="https://i.ytimg.com/vi/jkRxXlyavNs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY"><img width="140px" src="https://i.ytimg.com/vi/kNWjcygsFCY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [Launched First Website to Enhance Development](https://blog.vitabletech.in/launched-first-website-to-enhance-development/)
+- [Building Your Own ChatGPT: A Cost-Effective Guide to Creating a Custom Chatbot](https://blog.vitabletech.in/chatbot-application-for-knowledge-assistance/)
+- [Are you finding a software for your team or organization for free?](https://blog.vitabletech.in/magic-of-discord-why-its-a-game-changer/)
+- [How to create users in wordpress ? | A Step-by-Step Tutorial](https://blog.vitabletech.in/how-to-create-users-in-wordpress-a-step-by-step-tutorial/)
+- [From Web to Desktop: Exploring the Magic of NativePHP for PHP Developers](https://blog.vitabletech.in/from-web-to-desktop-exploring-the-magic-of-nativephp-for-php-developers/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
