@@ -151,7 +151,7 @@
 # <a href="https://stackoverflow.com/users/9578353/msrajwat298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msrajwat298" height="30" width="40" /></a> StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [Unable to send email from info@vitabletech.in after connecting my domain to cloudflare](https://stackoverflow.com/questions/78500072/unable-to-send-email-from-infovitabletech-in-after-connecting-my-domain-to-clou)
+- [Unable to send email from info@vitabletech.in after connecting my domain to cloudflare [closed]](https://stackoverflow.com/questions/78500072/unable-to-send-email-from-infovitabletech-in-after-connecting-my-domain-to-clou)
 - [Answer by msrajwat298 for eslint Throwing the error: Do not define components during render](https://stackoverflow.com/questions/78304804/eslint-throwing-the-error-do-not-define-components-during-render/78464281#78464281)
 - [How to know layer name from anyone of files map.dbf map.prj map.shp map.shx using go](https://stackoverflow.com/questions/78461213/how-to-know-layer-name-from-anyone-of-files-map-dbf-map-prj-map-shp-map-shx-usin)
 - [Answer by msrajwat298 for React Native Paper FAB.Group Icon stays on screen after navigating to another screen using react-native-navigator](https://stackoverflow.com/questions/74546492/react-native-paper-fab-group-icon-stays-on-screen-after-navigating-to-another-sc/78429454#78429454)
