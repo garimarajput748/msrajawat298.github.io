@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Walking Robot Simulation | Detailed Simulation | Leetcode 874](https://blog.vitabletech.in/walking-robot-simulation-detailed-simulation-leetcode-874/)
-- [Planning Made Easy with Planner Buddy](https://blog.vitabletech.in/planning-made-easy-with-planner-buddy/)
-- [How Planner Buddy Simplifies Event Management](https://blog.vitabletech.in/how-planner-buddy-simplifies-event-management/)
-- [Simplify Your Event Planning with Planner Buddy](https://blog.vitabletech.in/simplify-your-event-planning-with-planner-buddy/)
-- [Boosting Security for Your WordPress Website: 11 Essential Techniques](https://blog.vitabletech.in/getting-unwavering-security-for-your-wordpress-website-top-techniques-and-approaches/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs"><img width="140px" src="https://i.ytimg.com/vi/jkRxXlyavNs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY"><img width="140px" src="https://i.ytimg.com/vi/kNWjcygsFCY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
