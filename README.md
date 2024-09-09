@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs"><img width="140px" src="https://i.ytimg.com/vi/jkRxXlyavNs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY"><img width="140px" src="https://i.ytimg.com/vi/kNWjcygsFCY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [LEET CODE POTD:  2326. Spiral Matrix IV](https://blog.vitabletech.in/leet-code-potd-2326-spiral-matrix-iv/)
+- [POTD: LEET CODE – 725. &lpar;Split Linked List in Parts&rpar;](https://blog.vitabletech.in/potd-leet-code-725-split-linked-list-in-parts/)
+- [Converting Between Number Systems in JavaScript: A Complete Guide](https://blog.vitabletech.in/converting-between-number-systems-in-javascript-a-complete-guide/)
+- [An Extensive Guide to Different Types of Coffee and Tea Beverages](https://blog.vitabletech.in/an-extensive-guide-to-different-types-of-coffee-and-tea-beverages/)
+- [POTD: Leet Code 1367 &lpar;Linked List in Binary Tree&rpar;](https://blog.vitabletech.in/potd-leet-code-1367-linked-list-in-binary-tree/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
