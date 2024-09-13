@@ -163,12 +163,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [POTD Leet Code -1310. XOR Queries of a Subarray](https://blog.vitabletech.in/potd-leet-code-1310-xor-queries-of-a-subarray/)
-- [POTD Leet Code – 1684. Count the Number of Consistent Strings in JavaScript](https://blog.vitabletech.in/potd-leet-code-1684-count-the-number-of-consistent-strings-in-javascript/)
-- [Problem: Minimum Bit Flips to Convert Number &lpar;LeetCode Problem 2220&rpar;](https://blog.vitabletech.in/problem-minimum-bit-flips-to-convert-number-leetcode-problem-2220/)
-- [Leet Code POTD: 2807. Insert Greatest Common Divisors in Linked List](https://blog.vitabletech.in/leet-code-potd-2807-insert-greatest-common-divisors-in-linked-list/)
-- [LEET CODE POTD:  2326. Spiral Matrix IV](https://blog.vitabletech.in/leet-code-potd-2326-spiral-matrix-iv/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs"><img width="140px" src="https://i.ytimg.com/vi/jkRxXlyavNs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY"><img width="140px" src="https://i.ytimg.com/vi/kNWjcygsFCY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
