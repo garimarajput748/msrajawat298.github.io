@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs"><img width="140px" src="https://i.ytimg.com/vi/jkRxXlyavNs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY"><img width="140px" src="https://i.ytimg.com/vi/kNWjcygsFCY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kNWjcygsFCY">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [PODT: Understanding the Shortest Palindrome Problem and Solution](https://blog.vitabletech.in/podt-understanding-the-shortest-palindrome-problem-and-solution/)
+- [PODT Leet Code: 241. Different Ways to Add Parentheses in JS](https://blog.vitabletech.in/podt-leet-code-241-different-ways-to-add-parentheses-in-js/)
+- [POTD: Minimum Time Difference &lpar;LeetCode 539&rpar;](https://blog.vitabletech.in/potd-minimum-time-difference-leetcode-539/)
+- [POTD Leetcode : 1371. Find the Longest Substring Containing Vowels in Even Counts](https://blog.vitabletech.in/potd-leetcode-1371-find-the-longest-substring-containing-vowels-in-even-counts/)
+- [POTD Leet Code -1310. XOR Queries of a Subarray](https://blog.vitabletech.in/potd-leet-code-1310-xor-queries-of-a-subarray/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
